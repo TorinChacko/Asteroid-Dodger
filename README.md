@@ -1,2 +1,2 @@
-# Game2
+# Arcade Game
  
