@@ -1,2 +1,6 @@
+
 # Arcade Game
- 
+
+##Inspiration
+
+###Process
